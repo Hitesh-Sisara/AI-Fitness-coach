@@ -1,1 +1,1 @@
-Tailored AI fitness coach providing daily personalized workout plans based on user habits and desired challenge level
+<h1>Tailored AI fitness coach providing daily personalized workout plans based on user habits and desired challenge level
